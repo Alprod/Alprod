@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [img_1]:https://github.com/Alprod/Alprod/blob/19692868cb25eda0e154fda4fc07046f989d7c49/img/D4A602EF-0FD9-4416-8DDC-03E562F6F559.jpg
-[img_2]:
+
 ![img_1]
 
 
