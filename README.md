@@ -4,7 +4,7 @@
 [img_2]:https://github.com/Alprod/Alprod/blob/aa2314e64c7859b8bed8e8f4a01e03682f2fac34/img/IMG_0335.jpeg
 [php]:https://img.icons8.com/pulsar-color/100/php.png
 [symfo]:https://img.icons8.com/external-tal-revivo-filled-tal-revivo/100/external-symfony-is-a-php-web-application-framework-logo-filled-tal-revivo.png
-[html]:https://img.icons8.com/pulsar-color/100/000000/html.png
+[html]:https://img.icons8.com/pulsar-color/100/367DF5C2/html.png
 [css]:https://img.icons8.com/pulsar-color/100/css.png
 
 ![img_1]
