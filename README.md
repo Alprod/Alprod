@@ -18,7 +18,7 @@
 </div>
 
 
-![php] ![java] ![Js] ![html] ![css] ![symfo]
+![php] ![Js] ![html] ![css] ![symfo]
 
 - 📫 How to reach me: [Alain Germain](mailto:alprod81@gmail.com)
 - 😄 Pronouns: Alprod
