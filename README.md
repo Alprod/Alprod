@@ -8,6 +8,7 @@
 [html]:https://img.icons8.com/pulsar-color/100/FAB22CC2/html.png
 [css]:https://img.icons8.com/pulsar-color/100/css.png
 [java]:https://img.icons8.com/dusk/100/java-coffee-cup-logo.png
+[Js]:https://img.icons8.com/pulsar-color/100/javascript.png
 
 [elastic]:https://github.com/Alprod/Alprod/blob/e48354a0077d63af3fed4a880aaef9638fe11ab5/img/elastic-11.png
 
@@ -17,7 +18,7 @@
 </div>
 
 
-![php] ![java] ![symfo] ![html] ![css]
+![php] ![java] ![Js] ![symfo] ![html] ![css]
 
 - 📫 How to reach me: [Alain Germain](mailto:alprod81@gmail.com)
 - 😄 Pronouns: Alprod
