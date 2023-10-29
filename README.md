@@ -4,9 +4,9 @@
 [img_2]:"https://github.com/Alprod/Alprod/blob/aa2314e64c7859b8bed8e8f4a01e03682f2fac34/img/IMG_0335.jpeg"
 
 [php]:https://img.icons8.com/pulsar-color/100/php.png
-[symfo]:https://img.icons8.com/external-tal-revivo-filled-tal-revivo/100/external-symfony-is-a-php-web-application-framework-logo-filled-tal-revivo.png
-[html]:https://img.icons8.com/pulsar-color/100/FAB22CC2/html.png
-[css]:https://img.icons8.com/pulsar-color/100/css.png
+[symfo]:https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/100/000000/external-symfony-is-a-php-web-application-framework-logo-fresh-tal-revivo.png
+[html]:https://img.icons8.com/pulsar-color/100/000000/html-5.png
+[css]:https://img.icons8.com/pulsar-color/100/css3.png
 [java]:https://img.icons8.com/dusk/100/java-coffee-cup-logo.png
 [Js]:https://img.icons8.com/pulsar-color/100/javascript.png
 
