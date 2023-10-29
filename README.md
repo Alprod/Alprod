@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Dsides@Work
-- 🌱 I’m currently learning React, PHP, Symfony, Java ``(novice)``
+- 🌱 I’m currently learning React, PHP, Symfony, Java ``` (novice)```
 - 💬 Ask me about Devolppement Web Site
 - 📫 How to reach me: [Alain Germain](mailto:alprod81@gmail.com)
 - 😄 Pronouns: Alprod
