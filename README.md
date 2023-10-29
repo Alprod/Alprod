@@ -5,7 +5,7 @@
 [php]:https://img.icons8.com/pulsar-color/100/php.png
 [symfo]:https://img.icons8.com/external-tal-revivo-filled-tal-revivo/100/external-symfony-is-a-php-web-application-framework-logo-filled-tal-revivo.png
 [html]:https://img.icons8.com/pulsar-color/100/FAB22CC2/html.png
-[css]:https://icones8.fr/icon/NPK9UueLJjaj/css
+[css]:https://img.icons8.com/pulsar-color/100/css.png
 
 ![img_1]
 
