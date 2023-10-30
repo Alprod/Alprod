@@ -15,13 +15,13 @@
 
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <style>
-      .conatiner {
-        display:flex
-        flex-direction:row
-      }
-    </style>
     <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .conatiner {
+          display:flex
+          flex-direction:row
+        }
+      </style>
       <div class="container">
         <div>
           <img src="https://github.com/Alprod/Alprod/blob/19692868cb25eda0e154fda4fc07046f989d7c49/img/D4A602EF-0FD9-4416-8DDC-03E562F6F559.jpg" width="350" height="350"/>   
