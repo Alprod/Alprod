@@ -23,9 +23,9 @@
 </div>
 
 
-<div align="center">
+
   ![php] ![Js] ![html] ![css] ![symfo]
-</div>
+
 
 - 📫 How to reach me: [Alain Germain](mailto:alprod81@gmail.com)
 - 😄 Pronouns: Alprod
