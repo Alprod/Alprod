@@ -12,27 +12,10 @@
 
 [elastic]:https://github.com/Alprod/Alprod/blob/e48354a0077d63af3fed4a880aaef9638fe11ab5/img/elastic-11.png
 
-
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display:flex
-          flex-direction:row
-        }
-      </style>
-      <div class="container">
-        <div>
-          <img src="https://github.com/Alprod/Alprod/blob/19692868cb25eda0e154fda4fc07046f989d7c49/img/D4A602EF-0FD9-4416-8DDC-03E562F6F559.jpg" width="350" height="350"/>   
-        </div>
-        <div>
-          <img src="https://github.com/Alprod/Alprod/blob/e48354a0077d63af3fed4a880aaef9638fe11ab5/img/elastic-11.png" width="300" height="300"/>
-        </div>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<div align="center" style="display: inline-block;">
+    <img src="https://github.com/Alprod/Alprod/blob/19692868cb25eda0e154fda4fc07046f989d7c49/img/D4A602EF-0FD9-4416-8DDC-03E562F6F559.jpg" width="350" height="350"/>   
+    <img src="https://github.com/Alprod/Alprod/blob/e48354a0077d63af3fed4a880aaef9638fe11ab5/img/elastic-11.png" width="300" height="300"/>
+</div>
 
 ![php] ![Js] ![html] ![css] ![symfo]
 
