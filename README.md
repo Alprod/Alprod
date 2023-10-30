@@ -7,8 +7,8 @@
 [symfo]:https://img.icons8.com/nolan/100/symfony.png
 [html]:https://img.icons8.com/pulsar-color/100/000000/html-5.png
 [css]:https://img.icons8.com/pulsar-color/100/css3.png
-[java]:https://img.icons8.com/dusk/100/java-coffee-cup-logo.png
-[Js]:https://img.icons8.com/pulsar-color/100/FAE66C/javascript.png
+[java]:https://img.icons8.com/nolan/100/java-coffee-cup-logo.png
+[Js]:https://img.icons8.com/nolan/100/javascript-logo.png
 
 [elastic]:https://github.com/Alprod/Alprod/blob/e48354a0077d63af3fed4a880aaef9638fe11ab5/img/elastic-11.png
 
