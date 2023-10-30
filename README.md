@@ -6,7 +6,7 @@
 [php]:https://img.icons8.com/nolan/100/php-logo.png
 [symfo]:https://img.icons8.com/nolan/100/symfony.png
 [html]:https://img.icons8.com/nolan/100/html-5.png
-[css]:https://img.icons8.com/pulsar-color/100/css3.png
+[css]:https://img.icons8.com/nolan/100/css3.png
 [java]:https://img.icons8.com/nolan/100/java-coffee-cup-logo.png
 [Js]:https://img.icons8.com/nolan/100/javascript-logo.png
 
