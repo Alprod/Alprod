@@ -25,7 +25,6 @@
     <br/>
     <img src="https://github.com/Alprod/Alprod/blob/ba787ee7c99d3f03e4cef7bdce3422e05e9c2290/img/icons/icons8-bootstrap-100.png" />
     <img src="https://github.com/Alprod/Alprod/blob/ba787ee7c99d3f03e4cef7bdce3422e05e9c2290/img/icons/icons8-tailwind-css-100.png" />
-    <br/>
     <img src="https://github.com/Alprod/Alprod/blob/ba787ee7c99d3f03e4cef7bdce3422e05e9c2290/img/icons/icons8-react-native-100.png" />
     <img src="https://github.com/Alprod/Alprod/blob/3784d4ec72094a9cbb6815d84e74ef3e3df22886/img/icons/icons8-symfony-100.png" />
 </div>
@@ -33,5 +32,6 @@
 
 - 📫 How to reach me: [Alain Germain](mailto:alprod81@gmail.com)
 - 😄 Pronouns: Alprod
+- All icons from : [Icones8](https://icons8.com)
 
 
