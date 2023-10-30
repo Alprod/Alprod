@@ -20,7 +20,7 @@
   }
 </style>
 
-<div>
+<div class="container">
   <div style="border-radius: 50%">
       <img src="https://github.com/Alprod/Alprod/blob/aa2314e64c7859b8bed8e8f4a01e03682f2fac34/img/IMG_0335.jpeg" width="350" height="300"/>   
   </div>
