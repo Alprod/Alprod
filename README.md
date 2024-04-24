@@ -13,12 +13,10 @@
 [elastic]:https://github.com/Alprod/Alprod/blob/e48354a0077d63af3fed4a880aaef9638fe11ab5/img/elastic-11.png
 
 <div align="center" style="display: inline-block;">
-    <div style="border-radius: 10px;">
+    <div style="border-radius: 10px; padding: 15px;">
         <img src="https://github.com/Alprod/Alprod/blob/aa2314e64c7859b8bed8e8f4a01e03682f2fac34/img/IMG_0335.jpeg" width="450" height="350" />
+        <img src="https://github.com/Alprod/Alprod/blob/e48354a0077d63af3fed4a880aaef9638fe11ab5/img/elastic-11.png" width="400" height="400"/>
     </div>
-    <img src="https://github.com/Alprod/Alprod/blob/e48354a0077d63af3fed4a880aaef9638fe11ab5/img/elastic-11.png" width="400" height="400"/>
-    <br/>
-    <br/>
     <img src="https://github.com/Alprod/Alprod/blob/0623951ff8e822614db16bc1d7c35dea17a3e4f6/img/icons/icons8-php-100.png" />
     <img src="https://github.com/Alprod/Alprod/blob/0623951ff8e822614db16bc1d7c35dea17a3e4f6/img/icons/icons8-javascript-100.png" />
     <img src="https://github.com/Alprod/Alprod/blob/0623951ff8e822614db16bc1d7c35dea17a3e4f6/img/icons/icons8-html5-100.png" />
