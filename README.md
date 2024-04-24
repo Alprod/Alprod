@@ -25,7 +25,7 @@
     <br/>
     <img src="https://github.com/Alprod/Alprod/blob/ba787ee7c99d3f03e4cef7bdce3422e05e9c2290/img/icons/icons8-bootstrap-100.png" />
     <img src="https://github.com/Alprod/Alprod/blob/ba787ee7c99d3f03e4cef7bdce3422e05e9c2290/img/icons/icons8-tailwind-css-100.png" />
-    <img src="https://github.com/Alprod/Alprod/blob/ba787ee7c99d3f03e4cef7bdce3422e05e9c2290/img/icons/icons8-react-native-100.png" />
+    <img src="https://github.com/Alprod/Alprod/blob/ba787ee7c99d3f03e4cef7bdce3422e05e9c2290/img/icons/icons8-vuejs-100.png" />
     <img src="https://github.com/Alprod/Alprod/blob/3784d4ec72094a9cbb6815d84e74ef3e3df22886/img/icons/icons8-symfony-100.png" />
 </div>
 
